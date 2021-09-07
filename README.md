@@ -1,6 +1,6 @@
 
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://i0.wp.com/abelanaoafera.com.br/wp-content/uploads/2021/01/original.gif?ssl=1" align="center" style="width: 80%" />
 </div>  
   
 
