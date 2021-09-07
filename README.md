@@ -44,11 +44,11 @@
 <div align="center"> <img src="http://github-readme-streak-stats.herokuapp.com?user=Leticia-Rodrigues2&theme=radical" align="center" style="width: 60%" />
 </div>
   
-<table><tr><td valign="top" width="60%">
+<table><tr><td valign="top" width="55%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=leticia-rodrigues2&show_icons=true&theme=radical" align="left" style="width: 100%" />
 
-<td valign="top" width="40%">
+<td valign="top" width="45%">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leticia-rodrigues2&hide_border=true&layout=compact&theme=radical" align="left" style="width: 100%" />
 
