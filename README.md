@@ -4,14 +4,14 @@
 </div>  
   
 
-### <div align="center">Olá meu nome é Leticia,tenho 24 anos  sou estudante de Sistemas da Informação na instituição PUC-MINAS,,
+### <div align="center"> Olá meu nome é Leticia,tenho 24 anos  sou estudante de Sistemas da Informação na instituição PUC-MINAS,,
 </div>  
   
 
 - 👩‍💻Atualmente realizo estágio na empresa FortBrasil💚  
   
 
-- 🌱Estou aperfeiçoando minha habilidades no front-end  
+- 🌱Estou aperfeiçoando minhas habilidades no front-end  
   
 
 - ⚡Curiosidade sobre mim : Amo jogos e tenho uma carinho por suculentas e 🌵  
@@ -40,21 +40,23 @@
 
 ## Github Stats  
   
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Leticia-Rodrigues2&theme=radical)](https://git.io/streak-stats)
-
-
-<table><tr><td valign="top" width="50%">
+  
+<div align="center"> <img src="http://github-readme-streak-stats.herokuapp.com?user=Leticia-Rodrigues2&theme=radical" align="center" style="width: 60%" />
+</div>
+  
+<table><tr><td valign="top" width="60%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=leticia-rodrigues2&show_icons=true&theme=radical" align="left" style="width: 100%" />
 
-</td><td valign="top" width="50%">
+<td valign="top" width="40%">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leticia-rodrigues2&hide_border=true&layout=compact&theme=radical" align="left" style="width: 100%" />
 
+  
+  <br/> 
 </td></tr></table>  
 
-<br/>  
+ 
 
 ## Connect with me  
 <div align="center">
@@ -62,7 +64,7 @@
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://twitter.com/iamrishavanand" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px "/>
 </a>
 <a href="https://dev.to/rishavanand" target="_blank">
 <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
