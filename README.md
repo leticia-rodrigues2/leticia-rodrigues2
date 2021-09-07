@@ -50,7 +50,7 @@
 
 <td valign="top" width="45%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leticia-rodrigues2&hide_border=true&layout=compact&theme=radical" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leticia-rodrigues2&hide_border=true&layout=compact&theme=radical" align="left" style="width: 90%" />
 
   
   <br/> 
