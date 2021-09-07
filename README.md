@@ -4,10 +4,11 @@
 </div>  
   
 
-### <div align="center">I'm Rishav, a full-time full-stack freelance developer 👨‍💻 working remotely since 2013 🚀</div>  
+### <div align="center">Olá meu nome é Leticia,tenho 24 anos  sou estudante de Sistemas da Informação na instituição PUC-MINAS,,
+</div>  
   
 
-- 👩‍💻Atualmente realizo estágio na empresa FortBrasil😜💚  
+- 👩‍💻Atualmente realizo estágio na empresa FortBrasil💚  
   
 
 - 🌱Estou aperfeiçoando minha habilidades no front-end  
@@ -38,42 +39,22 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=rishavanand&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+  
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Leticia-Rodrigues2&theme=radical)](https://git.io/streak-stats)
 
 
-## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rishavanand&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=leticia-rodrigues2&show_icons=true&theme=radical" align="left" style="width: 100%" />
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leticia-rodrigues2&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leticia-rodrigues2&hide_border=true&layout=compact&theme=radical" align="left" style="width: 100%" />
 
 </td></tr></table>  
 
 <br/>  
-
-  
-
-<br/>  
-
-<div align="right">
-<img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="right" />
-</div>  
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
-
-
 
 ## Connect with me  
 <div align="center">
@@ -91,3 +72,5 @@
 </a>  
 </div>  
   
+  ----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
