@@ -1,8 +1,4 @@
 
-<div align="center">
-<img src=" align="center" style= "width: 50% ,50%" />
-</div>  
-  
 
 ### <div align="center"> Olá meu nome é Leticia,tenho 24 anos  sou estudante de Sistemas da Informação na instituição PUC-MINAS.
 </div>  
