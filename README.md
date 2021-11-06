@@ -10,7 +10,7 @@
 - 🌱Estou aperfeiçoando minhas habilidades no front-end  
   
 
-- ⚡Curiosidade sobre mim : Amo jogos e tenho uma carinho por suculentas e 🌵  
+- ⚡Curiosidade sobre mim : Amo jogos e tenho uma carinho por suculentas  🌵  
   
 
 
