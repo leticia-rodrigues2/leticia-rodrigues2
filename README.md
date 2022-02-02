@@ -1,16 +1,25 @@
 
 
-### <div align="center"> Olá meu nome é Leticia,tenho 24 anos  sou estudante de Sistemas da Informação na instituição PUC-MINAS.
+# <div align="center"> Hello !! ♥	
+  
+  
+  
+  <br/>
+
+ <img align="right" alt="Repolho" height="150" src="https://cdn-icons-png.flaticon.com/512/42/42308.png">
+  
+</div>
+Olá sou Leticia,tenho 24 anos, estudante de Sistemas da Informação na instituição PUC-MINAS.
 </div>  
   
 
-- 👩‍💻Atualmente realizo estágio na empresa FortBrasil💚  
+- Atualmente realizo estágio na empresa FortBrasil💚  
   
 
-- 🌱Estou aperfeiçoando minhas habilidades no front-end  
+- Estou aperfeiçoando minhas habilidades no front-end  
   
 
-- ⚡Curiosidade sobre mim : Amo jogos e tenho uma carinho por suculentas 🌵  
+- Curiosidade sobre mim : Amo jogos e tenho uma carinho por suculentas 🌵  
   
 
 
