@@ -6,7 +6,7 @@
   
   <br/>
 
- <img align="right" alt="Repolho" height="150" src="https://cdn-icons-png.flaticon.com/512/42/42308.png">
+ <img align="right" alt="Borboleta" height="200" src="https://cdn-icons-png.flaticon.com/512/42/42308.png">
   
 </div>
 Olá sou Leticia,tenho 24 anos, estudante de Sistemas da Informação na instituição PUC-MINAS.
