@@ -28,7 +28,7 @@ Olá sou Leticia,tenho 24 anos, estudante de Sistemas da Informação na institu
 
 
 
-## Github Stats  
+<!--## Github Stats  
   
   
 <div align="center"> <img src="http://github-readme-streak-stats.herokuapp.com?user=Leticia-Rodrigues2&theme=radical" align="center" style="width: 60%" />
@@ -40,7 +40,7 @@ Olá sou Leticia,tenho 24 anos, estudante de Sistemas da Informação na institu
 
 <td valign="top" width="45%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leticia-rodrigues2&hide_border=true&layout=compact&theme=radical" align="left" style="width: 90%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leticia-rodrigues2&hide_border=true&layout=compact&theme=radical" align="left" style="width: 90%" /> -->
 
   
   <br/> 
