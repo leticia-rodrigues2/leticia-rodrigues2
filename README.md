@@ -7,8 +7,7 @@
 ## 🙋‍♀️ Sobre mim
 
 Olá! Me chamo **Leticia Rodrigues**, tenho **28 anos** e sou formada em **Sistemas de Informação** pela **PUC Minas**.  
-Tenho uma verdadeira paixão por tecnologia e estou em constante busca por aprendizado e evolução, com foco especial no desenvolvimento de software
- Principalmente no universo Front-end, onde criatividade e funcionalidade se encontram
+Tenho uma verdadeira paixão por tecnologia e estou em constante busca por aprendizado e evolução, com foco especial no desenvolvimento de software principalmente no universo Front-end, onde criatividade e funcionalidade se encontram
 
 ---
 
