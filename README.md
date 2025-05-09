@@ -12,19 +12,6 @@
 Olá sou Leticia,tenho 24 anos, estudante de Sistemas da Informação na instituição PUC-MINAS.
 </div>  
   
-
-- Atualmente realizo estágio na empresa FortBrasil💚  
-  
-
-- Estou aperfeiçoando minhas habilidades no front-end  
-  
-
-- Curiosidade sobre mim : Amo jogos e tenho uma carinho por suculentas 🌵  
-  
-
-
-
-
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
